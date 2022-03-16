@@ -1,1 +1,1 @@
-# C-Program-to-calculate-equvalent-resistance-in-parallel-
+# C-Program-to-calculate-equivalent-resistance-in-parallel-
